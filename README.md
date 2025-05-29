@@ -17,8 +17,8 @@
 ## What
 
 This repo contains a set of tutorials to learn how to solve systems of conservation laws using the Julia library Jexpresso. 
-At the root of this ecosystem is the [Jexpresso.jl](https://github.com/EXPRESSOLAB/Jexpresso.jl) library. 
-The initial tutorials illustrate the usage of the tools in [Jexpresso.jl](https://github.com/EXPRESSOLAB/Jexpresso.jl), and these are the tutorials new users should focus on.
+At the root of this ecosystem is the [Jexpresso.jl](https://github.com/EXPRESSOLAB/Jexpresso) library. 
+The initial tutorials illustrate the usage of the tools in [Jexpresso.jl](https://github.com/EXPRESSOLAB/Jexpresso), and these are the tutorials new users should focus on.
 
 The tutorials are available in as HTML pages, allowing a rapid access into the material without the need of any setup.
 
