@@ -1,4 +1,4 @@
-# Jexpresso tutorials <img src="https://github.com/EXPRESSOLAB/Jexpresso.jl/blob/master/assets//logo-ext2.png" width="40" title="Jexpresso logo">
+# <img src="https://github.com/EXPRESSOLAB/jexpresso/blob/master/assets/logo-ext2.png" width="50" title="JEXPRESSO logo"> Tutorials
 
 *Solve systems of conservation laws in Julia using high order spectral elements*
 
