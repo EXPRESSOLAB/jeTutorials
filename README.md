@@ -6,8 +6,6 @@
 | **Documentation** |
 |:------------ |
 | [![](https://img.shields.io/badge/docs-stable-blue.svg)](https://smarras79.github.io/Jexpresso/dev/) [![](https://img.shields.io/badge/docs-dev-blue.svg)](https://Jexpresso.github.io/Tutorials/dev)  |
-|**Build Status** |
-| [![CI](https://github.com/smarras79/Jexpresso/actions/workflows/CI.yml/badge.svg?branch=master)](https://github.com/smarras79/Jexpresso/actions?query=workflow%3ACI)
 | **Contacts**  |
 | [![Simone Marras](https://img.shields.io/badge/Simone%20Marras-smarras%40njit.edu-8e7cc3)](mailto:smarras@njit.edu) |
 | [![Yassine Tissaoui](https://img.shields.io/badge/Yassine%20Tissaoui-yt277%40njit.edu-8e7cc3)](mailto:yt277@njit.edu) |
@@ -22,13 +20,7 @@ This repo contains a set of tutorials to learn how to solve systems of conservat
 At the root of this ecosystem is the [Jexpresso.jl](https://github.com/EXPRESSOLAB/Jexpresso.jl) library. 
 The initial tutorials illustrate the usage of the tools in [Jexpresso.jl](https://github.com/EXPRESSOLAB/Jexpresso.jl), and these are the tutorials new users should focus on.
 
-Within the Jexpresso ecosystem there are several [satellite/plugin packages](https://github.com/EXPRESSOLAB/Jexpresso.jl#plugins) that serve different purposes. Some of the tutorials focus on the combined usage of [Jexpresso.jl](https://github.com/EXPRESSOLAB/Jexpresso.jl) and the plugin packages. For example, [this tutorial](https://Jexpresso.github.io/Tutorials/dev/pages/t016_poisson_distributed/) illustrates the usage of [JexpressoDistributed.jl](https://github.com/Jexpresso/JexpressoDistributed.jl) for the solution of PDEs on parallel distributed-memory supercomputers.
-
-The tutorials are available in two formats:
-
-- As jupyter notebooks, allowing an interactive learning experience. **This is the recommended way to follow the tutorials**
-
-- As HTML pages, allowing a rapid access into the material without the need of any setup.
+The tutorials are available in as HTML pages, allowing a rapid access into the material without the need of any setup.
 
 ## How
 
